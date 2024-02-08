@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dahalnischal
 - 👀 I’m interested in Graphics Designing and frontend development.
-- 🌱 I’m currently learning Asp.net and Javascript.
+- 🌱 I’m currently learning NEXT JS and MERN.
 - 💞️ I’m looking to collaborate on Frontend development Team
 - 📫 How to reach me Mail me in dahalnischal2001@gmail.com
 
